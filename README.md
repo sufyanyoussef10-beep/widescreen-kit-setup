@@ -2,7 +2,7 @@
 
 Installs Widescreen's drivers and production software on a company laptop.
 
-Current kit version: **2026.10.11.2251** - the download below is always the newest.
+Current kit version: **2026.10.16.1722** - the download below is always the newest.
 
 ## Install (about 2 minutes)
 
